@@ -76,6 +76,7 @@ data/**/results/
 # Optional but recommended: ignore large CSVs unless they're sources
 # Uncomment next line if needed:
 # *.csv
+**/country_petitions_us_eom.csv
 
 # Ollama / LLM logs (if any)
 *.log
